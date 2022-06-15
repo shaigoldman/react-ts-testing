@@ -5,9 +5,7 @@ It is a small, pointless webapp designed by Shai to help him learn the react, ja
 
 It is currently deployed on AWS here: https://main.d3mzah00m0wzgw.amplifyapp.com/
 
-<img
-      src="https://i.pinimg.com/originals/c4/4d/65/c44d6575f9f1aff94ddf0c4a6d62918d.jpg"
-      alt="scary!"
-      style={{width:"40%",height:"40%"}}
-    />
+<img src="https://i.pinimg.com/originals/c4/4d/65/c44d6575f9f1aff94ddf0c4a6d62918d.jpg"
+     alt="scary!"
+     style="width:40%; height:40%"/>
 
